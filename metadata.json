@@ -1,0 +1,6 @@
+{
+  "name": "GlaucomaVision Diagnostics",
+  "description": "Professional eye screening dashboard for Non-Invasive IOP Detection using advanced corneal reflection analysis and fundus imagery evaluation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Image Analysis", "Clinical Reporting"]
+}
